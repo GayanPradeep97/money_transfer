@@ -1,0 +1,52 @@
+.howIts_main{
+    background-color: #fff;
+    position: relative;
+    padding: 20px 30px;
+}
+.howIts_header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 28px;
+    font-weight: 600;
+   
+}
+.section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 60px;
+}
+.para_section p{
+   line-height: 20px;
+   font-size: 20px;
+   font-weight: 400;
+   text-align: justify;
+}
+
+.bottom_section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 60px;
+}
+.circle_button{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px solid #F45300;
+}
+.circle_button .number{
+    font-size: 62px;
+    color: #F45300;
+}
+.circle_button .text{
+    text-align: center;
+    font-size: 14px;
+    color: #F45300;
+}

@@ -1,0 +1,122 @@
+.home-main{
+    position: relative;
+    z-index: 111;
+    padding-top: 100px;
+    background: #20366B;
+    /* top: 95px;  */
+}
+.img{
+    object-fit: cover;
+    width: 100%;
+    position: absolute;
+    background-color: #20366B;
+  
+}
+.header_section{
+    position: relative;
+    z-index: 9999;
+    display: flex;
+    justify-content: space-between;
+}
+.header_left{
+    padding-top: 40px;
+    padding-left: 45px;
+    padding-bottom: 20px;
+}
+.title_text{
+    font-size: 38px;
+    color: #fff;
+    padding: 20px 0px;
+    text-align: center;
+    font-weight: 600;
+    font-family: 'Open Sans';
+   
+}
+.para{
+     margin-top: 40px;
+     color: #fff;
+     font-weight: 600;
+     font-size: 18px;
+}
+.conyact_btn{
+    background-color: #F45300;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 18px;
+    border: 1px solid #F45300;
+    margin-top: 20px;
+}
+.sendmoney_card{
+    margin-right: 60px;
+    width: 300px;
+    height: 320px;
+    background-color: #fff;
+    border-radius: 5px;
+    padding:20px 20px 10px 20px;
+    margin-bottom: 10px;
+    
+}
+.card_title {
+    color: #F45300;
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.input_fields{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    gap: 8px;
+    
+}
+.lable{
+    color: #828282;
+    font-size: 14px;
+}
+select{
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid #C4C4C4;
+    color: #828282;
+    padding: 0px 5px;
+    width: 100%;
+}
+select::after{
+    border: 1px solid #C4C4C4;
+}
+.input_fields_2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    gap: 10px;
+}
+
+.left ,.right{
+    margin-right: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+input{
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid #C4C4C4;
+    color: #828282;
+    padding: 0px 5px;
+    width: 100%;
+}
+#input-field:focus { 
+    border: 1px solid #C4C4C4 !important
+    
+}
+.get_start{
+    background: #F45300;
+    width: 100%;
+    padding: 10px 10px;
+    border-radius: 5px;
+    border: 1px solid #F45300;
+    color: #fff;
+}

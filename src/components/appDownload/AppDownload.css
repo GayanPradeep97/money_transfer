@@ -1,0 +1,41 @@
+
+
+.main_container_app{
+    position: relative;
+    height: auto;
+   
+  
+}
+.main_container_app img{
+    object-fit: cover;
+    width: 100%;
+   
+    /* position: absolute; */
+    
+}
+.download_section{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    /* text-align: center; */
+    top: 180px;
+    left: 100px;
+}
+.download_section span{
+    color: #fff;
+    font-size: 48px;
+    font-weight: 600;
+}
+.download_btns{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 200px;
+    margin-top: 40px;
+   
+}
+.download_btns img{
+    width: 150px;
+    height: 50px;
+}
+

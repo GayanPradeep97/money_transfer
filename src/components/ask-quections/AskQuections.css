@@ -1,0 +1,42 @@
+.quec_section{
+    background-color: #fff;
+    position: relative;
+    padding: 20px 30px;
+}
+.section_main{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center;
+    justify-content: start; */
+    gap: 100px;
+}
+.header_section{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #000;
+    font-size: 28px;
+    font-weight: 600;
+}
+.quection_btn{
+    width: 100%;
+    padding: 10px 10px;
+    border-radius: 5px;
+    border: 1px solid #C4C4C4;
+}
+.hidePara{
+    padding: 20px;
+    color: #4F4F4F;
+
+}
+.hidePara span{
+    margin-bottom: 9px;
+
+}
+.quection_btn.active {
+    color:#F45300 ;
+    border: 1px solid #F45300;
+    box-shadow: 5px 4px 20px #0000001a;
+    margin-bottom: 9px;
+    margin-top: 9px;
+}
