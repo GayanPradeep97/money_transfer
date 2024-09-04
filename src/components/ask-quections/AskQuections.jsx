@@ -17,7 +17,7 @@ const AskQuections = () => {
     <>
       <div className="quec_section">
         <div className="section_main">
-          <div className="header_section">
+          <div className="headers_section">
             <span>Frequently Asked Questions</span>
           </div>
 

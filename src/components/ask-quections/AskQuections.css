@@ -10,7 +10,7 @@
     justify-content: start; */
     gap: 100px;
 }
-.header_section{
+.headers_section{
     display: flex;
     justify-content: center;
     text-align: center;
