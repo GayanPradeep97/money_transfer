@@ -1,0 +1,21 @@
+.disclaimer_main{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.disclaimer_header{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #20366b;
+    font-size: 48px;
+    font-weight: 600;
+    padding-top: 100px;
+}
+.disclaimer_description{
+    padding: 100px 50px 250px 50px;   
+    font-size: 20px;
+}
+.disclaimer_description p{
+    text-align: center;
+    line-height: 30px
+}

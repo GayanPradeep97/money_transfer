@@ -1,0 +1,68 @@
+{
+    "blogData":[
+        {
+        "id":1,
+        "title":"Exchange Rates Explained: 4 Factors Contributing To Fluctuation",
+        "date":"19/09/2022",
+        "description":"An exchange rate can be described as the relative value between two currencies. Two key phrases used when talking about exchange rates are depreciation and appreciation.",
+        "img":"./src/assets/blogImages/blog1.png"
+
+    },
+    {
+        "id":2,
+        "title":"Four ways digital money can improve your financial health",
+        "date":"19/09/2022",
+        "description":"Financial health is the state of one’s personal finances and that includes income, savings, expenses, debt, investments, and credit rating. These are 4 ways in which digital money can improve your financial health",
+        "img":"./src/assets/blogImages/blog2.png"
+
+    },
+     {
+        "id":3,
+        "title":"Top 5 Payment Trends For Enterprises In 2022",
+        "date":"19/09/2022",
+        "description":"Brexit refers to the UK’s withdrawal from the European Union. When managing overseas suppliers in the post-Brexit period, it is also important to keep yourself updated on the latest regulations and duties",
+        "img":"./src/assets/blogImages/blog3.png"
+
+    },
+     {
+        "id":4,
+        "title":"Impact Of COVID-19 On Remittance Firms",
+        "date":"19/09/2022",
+        "description":"The year 2020 opened our eyes to the impact a pandemic can have on individuals, communities, institutions, industries, economies, and governments",
+        "img":"./src/assets/blogImages/blog4.png"
+
+    },
+     {
+        "id":5,
+        "title":"Top 7 Smart Financial Advices for Immigrants",
+        "date":"19/09/2022",
+        "description":"An exchange rate can be described as the relative value between two currencies. Two key phrases used when talking about exchange rates are depreciation and appreciation",
+        "img":"./src/assets/blogImages/blog5.png"
+
+    },
+     {
+        "id":6,
+        "title":"Tips for Sending Money with An App for The First Time",
+        "date":"19/09/2022",
+        "description":"Over the years, the process of sending money from one account to another has simplified. Gone are the days of standing in queues at a bank or money transfer operator",
+        "img":"./src/assets/blogImages/blog6.png"
+
+    },
+     {
+        "id":7,
+        "title":"Impact of COVID-19 on international payments",
+        "date":"19/09/2022",
+        "description":"Since the beginning of 2020, the COVID-19 pandemic has been affecting countries around the globe. The pandemic continues to affect people and the economy and has resulted in a loss of income and employment for many",
+        "img":"./src/assets/blogImages/blog7.png"
+
+    },
+    {
+        "id":8,
+        "title":"Impact of COVID-19 on migrant remittances: What remittance service providers say",
+        "date":"19/09/2022",
+        "description":"Remittances have been significantly affected by the COVID-19 pandemic and migrant workers are unable to send money back home to their families for several reasons",
+        "img":"./src/assets/blogImages/blog8.png"
+
+    }
+]
+}

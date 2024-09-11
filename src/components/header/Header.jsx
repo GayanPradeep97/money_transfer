@@ -2,6 +2,7 @@
 import React from "react";
 import "./Header.css";
 import logo from "../../assets/logo.png";
+import { NavLink } from "react-router-dom";
 
 const Header = () => {
   return (
@@ -9,7 +10,9 @@ const Header = () => {
       <nav className="main-container">
         <div className="container">
           <div className="left-container">
-            <img className="logo" src={logo} alt="" />
+            <NavLink to="/">
+              <img className="logo" src={logo} alt="" />
+            </NavLink>
           </div>
           <div className="right-container">
             <a className="links">About Us</a>

@@ -6,6 +6,7 @@ import "./HomePage.css";
 import AppDownload from "../components/appDownload/AppDownload";
 import HowItWorks from "../components/How-It-works/HowItWorks";
 import AskQuections from "../components/ask-quections/AskQuections";
+import Footer from "../components/footer/Footer";
 
 const HomePage = () => {
   return (

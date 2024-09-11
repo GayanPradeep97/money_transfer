@@ -1,0 +1,37 @@
+.aboutUs_main{
+    padding-top: 95px;
+}
+.about_blue{
+    background-color: #00a2dc;
+    padding: 10px 100px;
+}
+.aboutUs_header{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #fff;
+    font-size: 32px;
+    font-weight: 600;
+    padding-top: 30px;
+}
+.aboutUs_para{
+    padding: 10px 100px;
+    
+}
+.aboutUs_para p{
+    text-align: center;
+    line-height: 30px;
+}
+
+.about_white{
+    padding: 50px 100px;
+}
+.aboutUs_header_down{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #20366b;
+    font-size: 32px;
+    font-weight: 600;
+    padding-top: 30px;
+}
